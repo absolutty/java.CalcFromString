@@ -1,0 +1,2 @@
+# CalcFromString
+Vytvoril Adam Hajro.
